@@ -20,7 +20,7 @@ TV-B-Gone firmware to cycle through all IR signals until a TV turns off. A custo
 - **MCP73831T** — battery charger IC — [DigiKey](https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ATI-OT/964303?s=N4IgTCBcDaILIGEAKB2AzADjQRgCoFowBBXASQHoB5XEAXQF8g)
 - **ATtiny85-20SU** — main microcontroller — [DigiKey](https://www.digikey.com/en/products/detail/microchip-technology/ATTINY85-20SU/735470)
 
-
+##
 
 
 <img width="1920" height="1243" alt="Screenshot 2026-05-26 at 2 52 33 PM" src="https://github.com/user-attachments/assets/a79d61ec-33b2-4797-a138-3cb624aef762" />
