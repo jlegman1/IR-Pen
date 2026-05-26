@@ -23,6 +23,7 @@ TV-B-Gone firmware to cycle through all IR signals until a TV turns off. A custo
 
 
 
+<img width="1920" height="1243" alt="Screenshot 2026-05-26 at 2 52 33 PM" src="https://github.com/user-attachments/assets/a79d61ec-33b2-4797-a138-3cb624aef762" />
 
 
 
