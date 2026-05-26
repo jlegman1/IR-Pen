@@ -19,3 +19,13 @@ TV-B-Gone firmware to cycle through all IR signals until a TV turns off. A custo
 - **TSAL6400** — IR LED — [DigiKey](https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TSAL6400/1681340)
 - **MCP73831T** — battery charger IC — [DigiKey](https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ATI-OT/964303?s=N4IgTCBcDaILIGEAKB2AzADjQRgCoFowBBXASQHoB5XEAXQF8g)
 - **ATtiny85-20SU** — main microcontroller — [DigiKey](https://www.digikey.com/en/products/detail/microchip-technology/ATTINY85-20SU/735470)
+
+
+
+
+
+
+
+
+
+![Uploading Screenshot 2026-05-26 at 11.50.06 AM.png…]()
