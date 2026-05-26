@@ -1,2 +1,4 @@
 # IR-Pen
-A pcb created to send IR signals to tvs. You click a button and it uses Tv-B-Gone fimware and basically cycles through all the IR signals until a Tv goes like, Oh its time for me to turn off.
+A pcb created to send IR signals to tvs. You click a button and it uses Tv-B-Gone fimware and basically cycles through all the IR signals until a Tv goes like, Oh its time for me to turn off. Heres a list of all parts used in this project;
+Battery, 10400 lithum 3.7v- https://www.amazon.com/dp/B0H1LNY5LW?niid=nl_cl_lst_a_2_1&ref_=nl_cl_lst_a_2_1&nrid=E20BXYEWC22ZEQV1RSBX
+USBasp programmer, for using the ISP programming pads- https://www.amazon.com/HiLetgo-ATMEGA8-Programmer-USBasp-Cable/dp/B00AX4WQ00/ref=sr_1_1?crid=1MRMBZKTTTK83&dib=eyJ2IjoiMSJ9.UbBkvItC13NXw-avDOcAtbvahJFvd889CoGHP3P6gS9sr52DS_3bs90v8naO7YObBE_E5ZMT0VdPzQeI_cCJQTleNDnInhZsU6cLeeQSBritusenJhjvqL1zJ8T0YRQywrGtTTGDBJnO5Gec0BxmLO7fHml9kA2gahYBDpIZhHZl8Cy2vIL3rbSmNd_i5hzv-xID4_JjjXSLpX9WJIjjUZl0ytycYW0wgk-WydhktQc.-bh0yekSnM5POnVtODfT9zkfj-AzHhapaNS5EYBJv2E&dib_tag=se&keywords=USBasp+programmer&qid=1779758074&sprefix=usbasp+programmer%2Caps%2C231&sr=8-1
