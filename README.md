@@ -2,7 +2,8 @@
 
 A PCB created to send IR signals to TVs. You click a button and it uses 
 TV-B-Gone firmware to cycle through all IR signals until a TV turns off. A custom 3d printed shell will go around it hiding the pcb. All kicad files linked. 3D print desgin not out yet 
-
+##
+Firmware created by Mitch Altman and adafruit [TV-B-Gone](https://github.com/adafruit/TV-B-Gone-kit)
 ## Parts List
 
 - **10440 Lithium Battery 3.7V** — power source that slides into pen body — [Amazon](https://www.amazon.com/dp/B0H1LNY5LW)
