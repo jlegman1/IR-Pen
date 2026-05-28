@@ -1,0 +1,27 @@
+10440 Lithium Battery 3.7V,1,Power source that slides into pen body,https://www.amazon.com/dp/B0H1LNY5LW
+
+USBasp Programmer,1,For flashing firmware via ISP pads,https://rb.gy/d68i6x
+
+Tactile Button,1,Trigger to fire IR codes,https://www.digikey.com/en/products/detail/c-k/PTS526SM15SMTR2-LFS/10056625
+
+10uF Capacitor,1,Handles big voltage dips,https://www.digikey.com/en/products/detail/murata-electronics/GRM155R60J106ME05D/11500166
+
+100nF Capacitor,1,Smooths out voltage spikes,https://www.digikey.com/en/products/detail/murata-electronics/GRM155R61A104KA01D/587212?s=N4IgTCBcDaIOICUCyBGArGhA2FBBFADACwDSuBKAIiALoC%2BQA
+
+33 Ohm Resistor,1,Limits current to IR LED,https://www.digikey.com/en/products/detail/yageo/RC0402JR-0733RL/726467
+
+3.3k Ohm Resistor,1,Sets charging current behavior,https://www.digikey.com/en/products/detail/panasonic-industry/ERA-2AEB332X/1706017
+
+10k Ohm Resistor,2,Pull-ups for RESET and button stability,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0402FT10K0/1761433
+
+USB-C Connector,1,Charging port,https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859662?s=N4IgTCBcDaIOIGEAqACAqgZQEIBYAMAHAKwgC6AvkA
+
+2N7002 MOSFET,1,Switch for driving IR LED,https://www.digikey.com/en/products/detail/onsemi/2N7002ET1G/1792136
+
+Keystone 5223,1,Battery spring contact,https://www.digikey.com/en/products/detail/keystone-electronics/5223/316374
+
+TSAL6400 IR LED,1,Infrared emitter LED,https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TSAL6400/1681340
+
+MCP73831T,1,Battery charger IC,https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ATI-OT/964303?s=N4IgTCBcDaILIGEAKB2AzADjQRgCoFowBBXASQHoB5XEAXQF8g
+
+ATtiny85-20SU,1,Main microcontroller,https://www.digikey.com/en/products/detail/microchip-technology/ATTINY85-20SU/735470
