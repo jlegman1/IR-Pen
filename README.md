@@ -22,7 +22,7 @@ Firmware created by Mitch Altman and adafruit [TV-B-Gone](https://github.com/ada
 - **TSAL6400** — IR LED — [DigiKey](https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TSAL6400/1681340)
 - **MCP73831T** — battery charger IC — [DigiKey](https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ATI-OT/964303?s=N4IgTCBcDaILIGEAKB2AzADjQRgCoFowBBXASQHoB5XEAXQF8g)
 - **ATtiny85-20SU** — main microcontroller — [DigiKey](https://www.digikey.com/en/products/detail/microchip-technology/ATTINY85-20SU/735470)
-- Downloaded CSV up top
+- Downloadable CSV up top
 ##
 
 
