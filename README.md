@@ -4,7 +4,7 @@
 This project is intended for educational and research purposes only. It should be used responsibly and only in environments where you have permission to transmit infrared signals.
 ##
 I created a PCB created that sends IR signals to TVs. You click a button and it uses TV-B-Gone firmware to cycle through all IR signals until a TV turns off. A custom 3d printed shell goes around it hiding the pcb. All kicad files and 3d print files linked. I had created this project because I was playing around with my flipper zero and thought how funny it was to when I turned the tv off when my dad was watching. It gave me motiavtion to create something of my own, so which i did. Overall I hope you enjoy playing around with my desgin!
-PCB fits through my 3d printed shell and should fit there tightly but shouldn't fall out. Its diamater is 13mm and its 133mm in height. 
+PCB fits through my 3d printed shell and should fit there tightly but shouldn't fall out. Its diamater is 13mm and its 133mm in height. The PCB is 11mm x 65mm.
 ##
 Firmware created by Mitch Altman and adafruit [TV-B-Gone](https://github.com/adafruit/TV-B-Gone-kit)
 ## Parts List
